@@ -7,7 +7,7 @@ The images used in the presentation are included in the ```images``` directory. 
 The original talk description from the meetup page:
 >Data scientists spend most of their time cleaning data. You’ve probably heard the joke that “80 percent of data science is cleaning the data and 20 percent is complaining about cleaning the data.” Simon will be showing us what tools and tricks he uses dailly to make this task easier.
 >
->## Title: Brushes, brooms, mops and buckets - some tools for delimited file messes>
+>## Title: Brushes, brooms, mops and buckets - some tools for delimited file messes
 >
 >Talk description
 >
